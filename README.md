@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Saad Shamsi, and I'm a from Pakistan. 
+<h2 align="left">Hi 👋! My name is Saad Shamsi, 
 
 ###
 
